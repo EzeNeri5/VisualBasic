@@ -1,0 +1,21 @@
+C:\Users\alumno\Downloads\pro23\11111\11111\bin\Debug\11111.exe
+C:\Users\alumno\Downloads\pro23\11111\11111\bin\Debug\11111.pdb
+C:\Users\alumno\Downloads\pro23\11111\11111\bin\Debug\11111.xml
+C:\Users\alumno\Downloads\pro23\11111\11111\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\alumno\Downloads\pro23\11111\11111\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\alumno\Downloads\pro23\11111\11111\obj\x86\Debug\11111.vbproj.GenerateResource.Cache
+C:\Users\alumno\Downloads\pro23\11111\11111\obj\x86\Debug\11111.exe
+C:\Users\alumno\Downloads\pro23\11111\11111\obj\x86\Debug\11111.xml
+C:\Users\alumno\Downloads\pro23\11111\11111\obj\x86\Debug\11111.pdb
+D:\PROGRAMACION OO\11111\11111\obj\x86\Debug\11111.exe
+D:\PROGRAMACION OO\11111\11111\obj\x86\Debug\11111.xml
+D:\PROGRAMACION OO\11111\11111\obj\x86\Debug\11111.pdb
+D:\PROGRAMACION OO\11111\11111\bin\Debug\11111.exe
+D:\PROGRAMACION OO\11111\11111\bin\Debug\11111.pdb
+D:\PROGRAMACION OO\11111\11111\bin\Debug\11111.xml
+D:\PROGRAMACION OO\11111\11111\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PROGRAMACION OO\11111\11111\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROGRAMACION OO\11111\11111\obj\x86\Debug\11111.vbproj.GenerateResource.Cache
+M:\PROGRAMACION OO\11111\11111\obj\x86\Debug\11111.exe
+M:\PROGRAMACION OO\11111\11111\obj\x86\Debug\11111.xml
+M:\PROGRAMACION OO\11111\11111\obj\x86\Debug\11111.pdb
