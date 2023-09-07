@@ -1,0 +1,9 @@
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL2\FINAL2\bin\Debug\FINAL2.exe
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL2\FINAL2\bin\Debug\FINAL2.pdb
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL2\FINAL2\bin\Debug\FINAL2.xml
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL2\FINAL2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL2\FINAL2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL2\FINAL2\obj\x86\Debug\FINAL2.vbproj.GenerateResource.Cache
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL2\FINAL2\obj\x86\Debug\FINAL2.exe
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL2\FINAL2\obj\x86\Debug\FINAL2.xml
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL2\FINAL2\obj\x86\Debug\FINAL2.pdb
