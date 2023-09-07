@@ -1,0 +1,27 @@
+C:\Users\alumno\AppData\Local\Temporary Projects\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\alumno\AppData\Local\Temporary Projects\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\alumno\AppData\Local\Temporary Projects\Ejercicio2\bin\Debug\Ejercicio2.xml
+C:\Users\alumno\AppData\Local\Temporary Projects\Ejercicio2\obj\x86\Debug\Ejercicio2.Form1.resources
+C:\Users\alumno\AppData\Local\Temporary Projects\Ejercicio2\obj\x86\Debug\Ejercicio2.Resources.resources
+C:\Users\alumno\AppData\Local\Temporary Projects\Ejercicio2\obj\x86\Debug\Ejercicio2.vbproj.GenerateResource.Cache
+C:\Users\alumno\AppData\Local\Temporary Projects\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+C:\Users\alumno\AppData\Local\Temporary Projects\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+C:\Users\alumno\AppData\Local\Temporary Projects\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb
+C:\Users\alumno\Downloads\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+C:\Users\alumno\Downloads\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+C:\Users\alumno\Downloads\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb
+D:\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+D:\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+D:\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.Form1.resources
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.Resources.resources
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.vbproj.GenerateResource.Cache
+M:\PROGRAMACION OO\EJE 002 DIAS DE LA SEMANA\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+M:\PROGRAMACION OO\EJE 002 DIAS DE LA SEMANA\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+M:\PROGRAMACION OO\EJE 002 DIAS DE LA SEMANA\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb
