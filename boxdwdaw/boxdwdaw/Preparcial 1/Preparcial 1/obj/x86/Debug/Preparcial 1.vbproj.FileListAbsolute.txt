@@ -1,0 +1,21 @@
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Preparcial 1\Preparcial 1\bin\Debug\Preparcial 1.exe
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Preparcial 1\Preparcial 1\bin\Debug\Preparcial 1.pdb
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Preparcial 1\Preparcial 1\bin\Debug\Preparcial 1.xml
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Preparcial 1\Preparcial 1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Preparcial 1\Preparcial 1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Preparcial 1\Preparcial 1\obj\x86\Debug\Preparcial 1.vbproj.GenerateResource.Cache
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Preparcial 1\Preparcial 1\obj\x86\Debug\Preparcial 1.exe
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Preparcial 1\Preparcial 1\obj\x86\Debug\Preparcial 1.xml
+C:\Users\Lourdes\Downloads\PROGRAMACION OO\Preparcial 1\Preparcial 1\obj\x86\Debug\Preparcial 1.pdb
+D:\PROGRAMACION OO\Preparcial 1\Preparcial 1\obj\x86\Debug\Preparcial 1.exe
+D:\PROGRAMACION OO\Preparcial 1\Preparcial 1\obj\x86\Debug\Preparcial 1.xml
+D:\PROGRAMACION OO\Preparcial 1\Preparcial 1\obj\x86\Debug\Preparcial 1.pdb
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\Preparcial 1\Preparcial 1\obj\x86\Debug\Preparcial 1.exe
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\Preparcial 1\Preparcial 1\obj\x86\Debug\Preparcial 1.xml
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\Preparcial 1\Preparcial 1\obj\x86\Debug\Preparcial 1.pdb
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\Preparcial 1\Preparcial 1\bin\Debug\Preparcial 1.exe
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\Preparcial 1\Preparcial 1\bin\Debug\Preparcial 1.pdb
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\Preparcial 1\Preparcial 1\bin\Debug\Preparcial 1.xml
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\Preparcial 1\Preparcial 1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\Preparcial 1\Preparcial 1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\Preparcial 1\Preparcial 1\obj\x86\Debug\Preparcial 1.vbproj.GenerateResource.Cache
