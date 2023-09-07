@@ -1,0 +1,36 @@
+C:\Users\alumno\Downloads\pro23\combobox\combobox\bin\Debug\combobox.exe
+C:\Users\alumno\Downloads\pro23\combobox\combobox\bin\Debug\combobox.pdb
+C:\Users\alumno\Downloads\pro23\combobox\combobox\bin\Debug\combobox.xml
+C:\Users\alumno\Downloads\pro23\combobox\combobox\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\alumno\Downloads\pro23\combobox\combobox\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\alumno\Downloads\pro23\combobox\combobox\obj\x86\Debug\combobox.vbproj.GenerateResource.Cache
+C:\Users\alumno\Downloads\pro23\combobox\combobox\obj\x86\Debug\combobox.exe
+C:\Users\alumno\Downloads\pro23\combobox\combobox\obj\x86\Debug\combobox.xml
+C:\Users\alumno\Downloads\pro23\combobox\combobox\obj\x86\Debug\combobox.pdb
+D:\PROGRAMACION OO\combobox\combobox\obj\x86\Debug\combobox.exe
+D:\PROGRAMACION OO\combobox\combobox\obj\x86\Debug\combobox.xml
+D:\PROGRAMACION OO\combobox\combobox\obj\x86\Debug\combobox.pdb
+D:\PROGRAMACION OO\combobox\combobox\bin\Debug\combobox.exe
+D:\PROGRAMACION OO\combobox\combobox\bin\Debug\combobox.pdb
+D:\PROGRAMACION OO\combobox\combobox\bin\Debug\combobox.xml
+D:\PROGRAMACION OO\combobox\combobox\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PROGRAMACION OO\combobox\combobox\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROGRAMACION OO\combobox\combobox\obj\x86\Debug\combobox.vbproj.GenerateResource.Cache
+C:\Users\Lourdes\Downloads\OO\combobox111\combobox\obj\x86\Debug\combobox.exe
+C:\Users\Lourdes\Downloads\OO\combobox111\combobox\obj\x86\Debug\combobox.xml
+C:\Users\Lourdes\Downloads\OO\combobox111\combobox\obj\x86\Debug\combobox.pdb
+C:\Users\Lourdes\Downloads\OO\combobox111\combobox\bin\Debug\combobox.exe
+C:\Users\Lourdes\Downloads\OO\combobox111\combobox\bin\Debug\combobox.pdb
+C:\Users\Lourdes\Downloads\OO\combobox111\combobox\bin\Debug\combobox.xml
+C:\Users\Lourdes\Downloads\OO\combobox111\combobox\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Lourdes\Downloads\OO\combobox111\combobox\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lourdes\Downloads\OO\combobox111\combobox\obj\x86\Debug\combobox.vbproj.GenerateResource.Cache
+D:\PROGRAMACION OO\EJE 013 combobox BIS\combobox\obj\x86\Debug\combobox.exe
+D:\PROGRAMACION OO\EJE 013 combobox BIS\combobox\obj\x86\Debug\combobox.xml
+D:\PROGRAMACION OO\EJE 013 combobox BIS\combobox\obj\x86\Debug\combobox.pdb
+M:\PROGRAMACION OO\EJE 013 combobox BIS\combobox\obj\x86\Debug\combobox.exe
+M:\PROGRAMACION OO\EJE 013 combobox BIS\combobox\obj\x86\Debug\combobox.xml
+M:\PROGRAMACION OO\EJE 013 combobox BIS\combobox\obj\x86\Debug\combobox.pdb
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\PROGRAMACION OO\EJE 013 combobox BIS\combobox\obj\x86\Debug\combobox.exe
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\PROGRAMACION OO\EJE 013 combobox BIS\combobox\obj\x86\Debug\combobox.xml
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\PROGRAMACION OO\EJE 013 combobox BIS\combobox\obj\x86\Debug\combobox.pdb
