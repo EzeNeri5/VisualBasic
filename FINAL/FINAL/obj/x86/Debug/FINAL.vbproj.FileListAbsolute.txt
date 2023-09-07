@@ -1,0 +1,9 @@
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL\FINAL\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL\FINAL\obj\x86\Debug\FINAL.vbproj.GenerateResource.Cache
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL\FINAL\bin\Debug\FINAL.exe
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL\FINAL\bin\Debug\FINAL.pdb
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL\FINAL\bin\Debug\FINAL.xml
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL\FINAL\obj\x86\Debug\WindowsApplication1.Final.resources
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL\FINAL\obj\x86\Debug\FINAL.exe
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL\FINAL\obj\x86\Debug\FINAL.xml
+C:\Users\Eze\Desktop\PRogra,macoipn\46\VB ejercicios\FINAL\FINAL\obj\x86\Debug\FINAL.pdb
