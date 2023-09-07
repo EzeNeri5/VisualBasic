@@ -1,0 +1,15 @@
+C:\Users\alumno\Downloads\pro23\Calculadore Super\bin\Debug\Calculadore Super.exe
+C:\Users\alumno\Downloads\pro23\Calculadore Super\bin\Debug\Calculadore Super.pdb
+C:\Users\alumno\Downloads\pro23\Calculadore Super\bin\Debug\Calculadore Super.xml
+C:\Users\alumno\Downloads\pro23\Calculadore Super\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\alumno\Downloads\pro23\Calculadore Super\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\alumno\Downloads\pro23\Calculadore Super\obj\x86\Debug\Calculadore Super.vbproj.GenerateResource.Cache
+C:\Users\alumno\Downloads\pro23\Calculadore Super\obj\x86\Debug\Calculadore Super.exe
+C:\Users\alumno\Downloads\pro23\Calculadore Super\obj\x86\Debug\Calculadore Super.xml
+C:\Users\alumno\Downloads\pro23\Calculadore Super\obj\x86\Debug\Calculadore Super.pdb
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\EJE 008 CALCULADORA\obj\x86\Debug\Calculadore Super.exe
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\EJE 008 CALCULADORA\obj\x86\Debug\Calculadore Super.xml
+F:\Backup noot\Nueva carpeta\Estudios\Instituto 46\2do\Programacion Orientada Objeto\pro23\EJE 008 CALCULADORA\obj\x86\Debug\Calculadore Super.pdb
+D:\PROGRAMACION OO\EJE 008 CALCULADORA\obj\x86\Debug\Calculadore Super.exe
+D:\PROGRAMACION OO\EJE 008 CALCULADORA\obj\x86\Debug\Calculadore Super.xml
+D:\PROGRAMACION OO\EJE 008 CALCULADORA\obj\x86\Debug\Calculadore Super.pdb
